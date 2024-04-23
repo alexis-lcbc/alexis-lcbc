@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Alexis!
+- 👀 I’m interested in coding games and web apps for fun or for glory!
+- 🌱 I’m currently learning NodeJS, Python, Computer Science, Lua etc...
+- 📫 How to reach me [coming soon]
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I like cats
